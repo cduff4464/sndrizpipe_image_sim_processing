@@ -1,0 +1,5 @@
+# rootname   pid vis exp filter epoch     mjd  exptime  darcsec orient
+fiducial_Y106_1_16  99999  9  _1  f105w  11  50230.4  600.00  -1.00  -1.00
+
+fiducial_Y106_2_16  99999  9  _1 f105w  12  50260.4  600.00  -1.00  -1.00
+fiducial_Y106_5_16  99999  9  _1  f105w  12  50260.4  600.00  -1.00  -1.00
