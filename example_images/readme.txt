@@ -8,4 +8,6 @@ You will need to use the following commands:
 
 In the same directory where you keep the bright.flt folder, you will need to include the epochs file. Sndrizpipe uses this for certain formatting things.
 
+The parameters imsize 300 and tempepoch 11 are unique to these images as they control the size of the ouput images and demonstrate how to do subtractions between various epochs.
+
 If you get an error about orig_wcs missing you are using too old of a drizzlepac version and need to update.
