@@ -7,3 +7,5 @@ You will need to use the following commands:
  *sndrizpipe bright --doreg --dodriz2 --dodiff --imsize 300 --tempepoch 11
 
 In the same directory where you keep the bright.flt folder, you will need to include the epochs file. Sndrizpipe uses this for certain formatting things.
+
+If you get an error about orig_wcs missing you are using too old of a drizzlepac version and need to update.
